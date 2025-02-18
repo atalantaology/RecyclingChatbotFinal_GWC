@@ -51,7 +51,7 @@ const instructionsTemplate = {
             "Take a piece of cardboard or thick paper as your base.",
             "Arrange the cutouts to create a themed collage (like nature, space, or your favorite hobby).",
             "Use a glue stick to carefully paste down each piece, overlapping for interesting effects.",
-            "Optional: Add personal drawings or writings to personalize your artwork.",
+            "Optional: Add personal drawings or writings to personalize your artwork.",            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1135390587/",
         ],
     },
     "cardboard-marble-run": {
@@ -63,7 +63,7 @@ const instructionsTemplate = {
             "Create barriers, turns, and drops to make the marble run more interesting.",
             "Test your marble run by dropping a small marble or ping pong ball and watching it travel.",
             "Experiment with different angles and track designs to see how they affect the ball's movement.",
-            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1135313041/",
+            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1135390669/",
         ],
     },
     "electronic-parts-robot": {
@@ -99,7 +99,7 @@ const instructionsTemplate = {
             "Press the pulp into small molds or egg carton sections.",
             "Let the paper dry completely into seed-starting pots.",
             "Fill the pots with soil and plant seeds. The paper will biodegrade and help the seeds grow!",
-            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1105123564",
+            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1135390364/",
         ],
     },
     "water-filter-experiment": {
@@ -123,7 +123,7 @@ const instructionsTemplate = {
             "Fill each section with potting soil.",
             "Plant herbs, small flowers, or succulents in each bottle section.",
             "Hang the bottles vertically using strong string or wire, creating a hanging garden.",
-            "Here's a scratch project to learn more: https://scratch.mit.edu/projects/1108350699",
+            "Here's a scratch project to learn more: https://scratch.mit.edu/projects/1135390447/",
         ],
     }
 };

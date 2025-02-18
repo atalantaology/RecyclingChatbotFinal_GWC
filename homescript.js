@@ -75,7 +75,7 @@ const instructionsTemplate = {
             "Attach electronic parts using safe, child-friendly glue or tape.",
             "Create a face or design using the buttons and parts.",
             "IMPORTANT: An adult must supervise and help with any electronic part handling.",
-            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1103030075",
+            "Here is a scratch project to learn more: https://scratch.mit.edu/projects/1135389808/",
         ],
     },
     "compost-terrarium": {
@@ -111,7 +111,7 @@ const instructionsTemplate = {
             "Add layers of fine sand, then small rocks, then larger gravel.",
             "Pour dirty water (like muddy water from outside) through the filter.",
             "Observe how the layers clean the water. ALWAYS have an adult verify the water's cleanliness before any contact!",
-            "Here's scratch projects  to learn more: https://scratch.mit.edu/projects/1135313061/ and            https://scratch.mit.edu/projects/1108821011 and https://scratch.mit.edu/projects/1135314072/", 
+            "Here's scratch projects  to learn more: https://scratch.mit.edu/projects/1135388846/ and            https://scratch.mit.edu/projects/1108821011 and https://scratch.mit.edu/projects/1135389421/", 
         ],
     },
     "bottle-vertical-garden": {
